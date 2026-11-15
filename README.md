@@ -48,8 +48,11 @@ customer-churn-analysis/
 ├── .gitignore
 ├── requirements.txt           # Project dependencies
 └── README.md                  # Project documentation
+```
 
 # Key Visualizations & EDA
+```
+
 1. Feature Correlation Heatmap
 The correlation matrix analyzes the linear relationships between numeric features, plan types, contract types, and escalation metrics.
 
@@ -61,8 +64,11 @@ Geographic breakdown illustrating regional variances in subscriber drop-offs.
 
 # How to Run Locally
 Clone the repository:
-git clone [https://github.com/your-username/customer-churn-analysis.git](https://github.com/your-username/customer-churn-analysis.git)
+
+````text
+git clone https://github.com/Iffat-Shaikh/customer-churn-analysis.git
 cd customer-churn-analysis
+````
 
 # Install dependencies:
 pip install -r requirements.txt
